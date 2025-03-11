@@ -8,13 +8,14 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Ilan REYNAUD
+Elève ingénieur en prepa integré
 
 
-Disponible XX mois à partir de Date
+Disponible 00 mois à partir de 2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Prenom.Nom[at]xxx.com] 
+(mailto: ilan.reynaud@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
