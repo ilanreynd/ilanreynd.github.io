@@ -8,18 +8,18 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2021 – 2024`
+**Lycée Sacré Coeur**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en première année de prepa intégré
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+`2024 – 2029`
+**Diplome d'ingénieur** - Ecole UniLasalle Amiens
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Maths/Physique, mention assez bien, Amiens
 
 ## Expériences
 
@@ -46,22 +46,25 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : B1 (TOEIC)
+* LV2 Espagnol : A2
+* LV3 Japonais : A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* OneShape
+* Kicad
+* Github
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis B
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Cinéma
+* J'adore aller au cinéma car pour moi il n'y a rien de plus beau et fantatisque que le mélange de tout ces arts en un seul. Mes films préférés sont The Elephant man, Memories of Murder et City of God.
+* Dans un sens général, l'art est important pour moi.
 
-Loisirs 1
+Musique
+
 * Description 
 * Description 
