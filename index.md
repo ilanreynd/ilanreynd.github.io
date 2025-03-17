@@ -14,8 +14,7 @@ Elève ingénieur en prepa integré
 
 Disponible 00 mois à partir de 2025
 
-[ilan.reynaud[at]etu.unilasalle.fr] 
-(mailto: ilan.reynaud@gmail.com)
+[ilan.reynaud[at]etu.unilasalle.fr](mailto: ilan.reynaud@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ilan-reynaud-10b178357/)
 
