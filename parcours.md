@@ -66,5 +66,5 @@ Cinéma
 
 Musique
 
-* Description 
-* Description 
+* Je suis batteur dans un groupe nommé AMEA 51, depuis l'année 2024. Et je joue personellement depuis que j'ai 9 ans. 
+* J'écoute aussi énormement de musoque de tout genre.
